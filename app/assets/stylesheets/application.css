@@ -13,3 +13,33 @@
  *= require_tree .
  *= require_self
  */
+
+h1 {
+  font-size: 50px;
+  font-family: roboto;
+}
+
+i {
+  color: #2361ae;
+  font-family: roboto;
+}
+
+p {
+  color: black;
+  font-weight: bold;
+  font-family: roboto;
+  font-size: 20px;
+}
+
+.btn-ask-again {
+  background-color: #e62858;
+  font-weight: 400px;
+  color: white;
+  border-radius: 0.25em;
+  border: 1px solid transparent;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  display: inline-block;
+  padding: 00.55rem;
+}
